@@ -26,3 +26,4 @@ function bmi(weight, height) {
 console.log(bmi(80, 1.8))
 
 // Completed
+
